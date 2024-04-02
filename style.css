@@ -1,0 +1,55 @@
+*{
+    Margin: 10px; 
+    }
+    .cabecalho-geral
+    {
+        background-color: purple; 
+    }
+    .titulo-cabecalho
+    { 
+        color:white;
+        font-size: 50px;
+        font-family: cursive;
+        display: flex;
+        justify-content: space-around;
+        ;
+    
+    }
+    .background{
+        background-color: black;
+    }
+    
+    .texto{
+        color:white;
+        align-content: center;
+    }
+    
+    .titulo{
+    color:white;
+    align-content: center;
+    font-size: small;
+    
+    }
+    .secao
+    {
+        background-color: purple;
+    }
+    .rodape
+    {
+        background-color: red;
+        padding: 10px;
+        color:gray;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+    .figura{
+        width:30%;
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        justify-content: space-around;
+    
+    }
+    .titulo{
+        color: gray;
+    }
